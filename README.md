@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 📚 I'm 1st year Computer Engineering student
+- 🏫 I’m currently studying at Rizal Technological University
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love learning various things
 <!--
 **njlacandazo/njlacandazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
